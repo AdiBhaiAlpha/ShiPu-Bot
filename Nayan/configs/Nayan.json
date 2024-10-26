@@ -1,7 +1,7 @@
 {
   "login": {
-    "email": "email",
-    "password": "password"
+    "email": "chitronbhattacharjee10",
+    "password": "detective"
   },
   "loginoptions": {
     "selfListen": false,
@@ -14,11 +14,11 @@
     "autoMarkRead": true,
     "autoReconnect": true,
     "logRecordSize": "defaultLogRecordSize",
-    "online": false,
+    "online": true,
     "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36"
   },
   "DESCRIPTION": "artificial intelligence is the future, and the future is here.",
-  "allowInbox": false,
+  "allowInbox": true,
   "adminOnly": false,
   "autoCreateDB": true,
   "encryptSt": true,
