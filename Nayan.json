@@ -6,17 +6,17 @@
   "language": "en",
   "notification": false,
   "approval": false,
-  "saveState": true,
+  "saveState": false,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "🤖ShiPu Bot💨💦",
+  "PREFIX": "=",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100063504903833",
+    ""
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100063504903833",
     ""
   ],
   "OWNER": ["100000959749712"], 
